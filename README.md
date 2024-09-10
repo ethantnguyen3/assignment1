@@ -12,7 +12,9 @@
 <img width="271" alt="Screenshot 2024-09-09 233249" src="https://github.com/user-attachments/assets/ac94b48a-0790-4e27-902e-4c3e256b31d5">
 
 3a. If user presses 0, the user must input a valid value within the array or else it will output an out-of-range error
+
 <img width="296" alt="Screenshot 2024-09-09 233532" src="https://github.com/user-attachments/assets/81b1c147-4c01-4137-b500-d5788f2ade67">
+
 3b. If user presses 1, the user must input a value less than or equal to 2147483647, and it will not produce an error unless the user inputs a number greater or the array produces a memory allocation error (when it is too full)
 
 <img width="304" alt="image" src="https://github.com/user-attachments/assets/fb3fd530-432e-44c5-9f11-eb8cca077e26"> 
