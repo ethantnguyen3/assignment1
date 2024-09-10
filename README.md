@@ -8,8 +8,8 @@
 
 <img width="146" alt="Screenshot 2024-09-09 232838" src="https://github.com/user-attachments/assets/a8990553-5161-4a3b-9e5b-a7e4296a353c">
 
-2. Provides user with a menu
-<img width="271" alt="Screenshot 2024-09-09 233249" src="https://github.com/user-attachments/assets/ac94b48a-0790-4e27-902e-4c3e256b31d5">
+2. Provides user with a menu once a valid file is given
+<img width="313" alt="image" src="https://github.com/user-attachments/assets/440f94b4-5872-4649-b4c3-489e1af686b6">
 
 3a. If user presses 0, the user must input a valid value within the array or else it will output an out-of-range error
 
